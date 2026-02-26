@@ -4,4 +4,4 @@ __pycache__/
 .env
 .DS_Store
 data/creditcard.csv
-.idea/
+.idea
